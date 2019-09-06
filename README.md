@@ -41,5 +41,14 @@ OSError: [WinError 126] 找不到指定的模块。
 ```
 
 
+step 1:
 i try to uninstall gluoncv or mxnet to fix my error
 but actually not work
+
+
+step 2:
+mybe its my gpu error, so i try this
+```
+pip install --pre --upgrade mxnet-cu100
+```
+but same error above.
