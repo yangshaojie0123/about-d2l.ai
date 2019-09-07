@@ -2,9 +2,13 @@
 gluoncv &amp; mxnet Error
 
 ###############################################
-###    cv code from aws                     ###
+###    cv code from aws accuracy: 0.88~1.0  ###
 ###    if you want to use as follow:        ###
 ###############################################  
+
+
+data setting brose:
+https://www.makesense.ai/
 
 
 ```
